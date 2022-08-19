@@ -48,7 +48,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                         })
                                                     })()
                                                 </script>
-                                                <a href="motorcycleparts.php" class="linkfrom">Motorcycle Parts > Accessories</a>
+                                                <a href="autoAccparts.php" class="linkfrom">Motorcycle Parts > Boat Parts</a>
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
@@ -59,7 +59,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
-                                                            <input id="model" type="hidden" value="Auto Accessories & Parts > Motorcycle Parts > Accessories" name="categoryy" class="forminput form-select-lg" autocomplete="off" required="required" placeholder="Model Of The cars">
+                                                            <input id="model" type="hidden" value="Auto Accessories & Parts > Motorcycle Parts > Boat Parts" name="categoryy" class="forminput form-select-lg" autocomplete="off" required="required" placeholder="Model Of The cars">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -67,7 +67,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
-                                                            <input id="model" type="hidden" value="Accessories moaap" name="typeparts" class="forminput form-select-lg" autocomplete="off" required="required">
+                                                            <input id="model" type="hidden" value="Boat Parts mtbp" name="typeparts" class="forminput form-select-lg" autocomplete="off" required="required">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -167,80 +167,40 @@ $pageTitle="New Auto Accessories & Parts";
                                                 </div>
                                                 <div class="form-group form-group-lg formmarginad">
                                                     <div class="row">
-                                                        <!-- <div class="col-lg-12"><div class="form-check">
-                                                        <h5>Extra</h5>
-                                                        </div>
-                                                        </div> -->
                                                     <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="All Motorcycles" id="a0" name="cars[]">
+                                                        <input class="form-check-input" type="checkbox" value="All Boat Types" id="a0" name="cars[]">
                                                         <label class="form-check-label" for="a0">
-                                                        All Motorcycles
+                                                        All Boat Types
                                                             </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Bajaj" id="a1" name="cars[]">
+                                                        <input class="form-check-input" type="checkbox" value="Inboard Motor Boats" id="a1" name="cars[]">
                                                         <label class="form-check-label" for="a1">
-                                                        Bajaj
+                                                        Inboard Motor Boats
                                                             </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="BMW Motorcycle" id="a2" name="cars[]">
+                                                        <input class="form-check-input" type="checkbox" value="Outboard Motor Boats" id="a2" name="cars[]">
                                                         <label class="form-check-label" for="a2">
-                                                        BMW Motorcycle
+                                                        Outboard Motor Boats
                                                         </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Ducati" id="a3" name="cars[]">
+                                                        <input class="form-check-input" type="checkbox" value="Row/Paddle Boats" id="a3" name="cars[]">
                                                         <label class="form-check-label" for="a3">
-                                                        Ducati
+                                                        Row/Paddle Boats
                                                         </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Harley Davidson" id="a4" name="cars[]">
+                                                        <input class="form-check-input" type="checkbox" value="Sailboats" id="a4" name="cars[]">
                                                         <label class="form-check-label" for="a4">
-                                                        Harley Davidson
+                                                        Sailboats
                                                         </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Honda Motorcycle" id="a5" name="cars[]">
+                                                        <input class="form-check-input" type="checkbox" value="Other Boat Type" id="a5" name="cars[]">
                                                         <label class="form-check-label" for="a5">
-                                                        Honda Motorcycle
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Kawasaki" id="a6" name="cars[]">
-                                                        <label class="form-check-label" for="a6">
-                                                        Kawasaki
-                                                        </label></div>
-                                                       </div>
-                                                       <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="KTM" id="a7" name="cars[]">
-                                                        <label class="form-check-label" for="a7">
-                                                        KTM
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Suzuki Motorcycle" id="a8" name="cars[]">
-                                                        <label class="form-check-label" for="a8">
-                                                        Suzuki Motorcycle
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Triumph" id="a9" name="cars[]">
-                                                        <label class="form-check-label" for="a9">
-                                                        Triumph
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Yamaha" id="a10" name="cars[]">
-                                                        <label class="form-check-label" for="a10">
-                                                        Yamaha
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Other Motorcycle Manufacturer" id="a19" name="cars[]">
-                                                        <label class="form-check-label" for="a19">
-                                                        Other Motorcycle Manufacturer
+                                                        Other Boat Type
                                                         </label></div>
                                                         </div>
                                                     </div>
@@ -337,7 +297,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                                             $namesellertypeparts = $info['Name'];
                                                                             ?>
                                                                     <input id="title" type="hidden" name="sellertypeparts" class="form-control form-select-lg" autocomplete="off" value="<?php echo $namesellertypeparts ?>" />
-                                            <?php
+                                                                    <?php
                                             function myfunction($v1,$v2)
                                             {
                                             return $v1 . "-" . $v2;
@@ -751,7 +711,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 65 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin1"
+                                "redirectUrl" =>  "https://ohyamal.com/boatparts.php?do=Insertfin1"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -803,7 +763,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 200 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin2"
+                                "redirectUrl" =>  "https://ohyamal.com/boatparts.php?do=Insertfin2"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -855,7 +815,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 300 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin3"
+                                "redirectUrl" =>  "https://ohyamal.com/boatparts.php?do=Insertfin3"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -907,7 +867,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 500 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin4"
+                                "redirectUrl" =>  "https://ohyamal.com/boatparts.php?do=Insertfin4"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";

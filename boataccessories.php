@@ -21,7 +21,6 @@ $pageTitle="New Auto Accessories & Parts";
                             Include as much details and pictures as possible, and set the right price!
                         </p>
                     </div>
-
                 </div>
             </div>
             </div>
@@ -48,7 +47,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                         })
                                                     })()
                                                 </script>
-                                                <a href="motorcycleparts.php" class="linkfrom">Motorcycle Parts > Accessories</a>
+                                                <a href="apparelmeracc.php" class="linkfrom">Apparel, Merchandise & Accessories > Boat Accessories</a>
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
@@ -59,18 +58,18 @@ $pageTitle="New Auto Accessories & Parts";
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
-                                                            <input id="model" type="hidden" value="Auto Accessories & Parts > Motorcycle Parts > Accessories" name="categoryy" class="forminput form-select-lg" autocomplete="off" required="required" placeholder="Model Of The cars">
+                                                            <input id="model" type="hidden" value="Auto Accessories & Parts > Apparel, Merchandise & Accessories > Boat Accessories" name="categoryy" class="forminput form-select-lg" autocomplete="off" required="required" placeholder="Model Of The cars">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group form-group-lg formmarginad">
+                                                <div class="row">
+                                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
+                                                            <input id="model" type="hidden" value="Boat Accessories amacc" name="typeparts" class="forminput form-select-lg" autocomplete="off" required="required">
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <?php echo locate(); ?>
-                                                <div class="form-group form-group-lg formmarginad">
-                                                <div class="row">
-                                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
-                                                            <input id="model" type="hidden" value="Accessories moaap" name="typeparts" class="forminput form-select-lg" autocomplete="off" required="required">
-                                                        </div>
-                                                    </div>
-                                                </div>
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-6 col-md-8 col-sm-12 col-xs-2">
@@ -165,86 +164,6 @@ $pageTitle="New Auto Accessories & Parts";
                                                     </div>
                                                     </div>
                                                 </div>
-                                                <div class="form-group form-group-lg formmarginad">
-                                                    <div class="row">
-                                                        <!-- <div class="col-lg-12"><div class="form-check">
-                                                        <h5>Extra</h5>
-                                                        </div>
-                                                        </div> -->
-                                                    <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="All Motorcycles" id="a0" name="cars[]">
-                                                        <label class="form-check-label" for="a0">
-                                                        All Motorcycles
-                                                            </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Bajaj" id="a1" name="cars[]">
-                                                        <label class="form-check-label" for="a1">
-                                                        Bajaj
-                                                            </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="BMW Motorcycle" id="a2" name="cars[]">
-                                                        <label class="form-check-label" for="a2">
-                                                        BMW Motorcycle
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Ducati" id="a3" name="cars[]">
-                                                        <label class="form-check-label" for="a3">
-                                                        Ducati
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Harley Davidson" id="a4" name="cars[]">
-                                                        <label class="form-check-label" for="a4">
-                                                        Harley Davidson
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Honda Motorcycle" id="a5" name="cars[]">
-                                                        <label class="form-check-label" for="a5">
-                                                        Honda Motorcycle
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Kawasaki" id="a6" name="cars[]">
-                                                        <label class="form-check-label" for="a6">
-                                                        Kawasaki
-                                                        </label></div>
-                                                       </div>
-                                                       <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="KTM" id="a7" name="cars[]">
-                                                        <label class="form-check-label" for="a7">
-                                                        KTM
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Suzuki Motorcycle" id="a8" name="cars[]">
-                                                        <label class="form-check-label" for="a8">
-                                                        Suzuki Motorcycle
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Triumph" id="a9" name="cars[]">
-                                                        <label class="form-check-label" for="a9">
-                                                        Triumph
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Yamaha" id="a10" name="cars[]">
-                                                        <label class="form-check-label" for="a10">
-                                                        Yamaha
-                                                        </label></div>
-                                                        </div>
-                                                        <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Other Motorcycle Manufacturer" id="a19" name="cars[]">
-                                                        <label class="form-check-label" for="a19">
-                                                        Other Motorcycle Manufacturer
-                                                        </label></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                                 <?php echo location(); ?>
                                             <div class="form-group form-group-lg formmarginad" style="text-align: center;">
                                             <div class="row">
@@ -337,14 +256,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                                             $namesellertypeparts = $info['Name'];
                                                                             ?>
                                                                     <input id="title" type="hidden" name="sellertypeparts" class="form-control form-select-lg" autocomplete="off" value="<?php echo $namesellertypeparts ?>" />
-                                            <?php
-                                            function myfunction($v1,$v2)
-                                            {
-                                            return $v1 . "-" . $v2;
-                                            }
-                                            $carss = $_POST['cars'];
-                                               ?>
-                                              <input id="title" type="hidden" name="checkcar" class="form-control form-select-lg" autocomplete="off" value="<?php print_r(array_reduce($carss,"myfunction")); ?>" />
+
                                             <div class="form-group form-group-lg " style="text-align: center;">
                                                 <div class="row">
                                                     <div class="d-grid gap-2 col-6 ">
@@ -446,7 +358,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                         $_SESSION['token'] = $tokenrand;
 
                                         echo '<div class="divpayment">Only One Ad</div>';
@@ -475,7 +386,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                             $_SESSION['token'] = $tokenrand1;
 
                                 echo '<div class="divpayment">Unlimited Ads 30 days</div>';
@@ -504,7 +414,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                             $_SESSION['token'] = $tokenrand2;
 
                                 echo '<div class="divpayment">Unlimited Ads 3 months</div>';
@@ -533,7 +442,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                         $_SESSION['token'] = $tokenrand3;
 
                                 echo '<div class="divpayment">Unlimited Ads 1 year</div>';
@@ -575,7 +483,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                         $_SESSION['token'] = $tokenrand;
 
                                         echo '<div class="divpayment">Only One Ad</div>';
@@ -604,7 +511,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                             $_SESSION['token'] = $tokenrand1;
 
                                 echo '<div class="divpayment">Unlimited Ads 30 days</div>';
@@ -633,7 +539,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                             $_SESSION['token'] = $tokenrand2;
 
                                 echo '<div class="divpayment">Unlimited Ads 3 months</div>';
@@ -662,7 +567,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         $_SESSION['conditionparts'] = $_POST['conditionparts'];
                                         $_SESSION['locationcars'] = $_POST['locationcars'];
                                         $_SESSION['categoryy'] = $_POST['categoryy'];
-                                        $_SESSION['checkcar'] = $_POST['checkcar'];
                                         $_SESSION['token'] = $tokenrand3;
 
                                 echo '<div class="divpayment">Unlimited Ads 1 year</div>';
@@ -696,11 +600,10 @@ $pageTitle="New Auto Accessories & Parts";
                                 $conditionparts = $_POST['conditionparts'];
                                 $locationcars = $_POST['locationcars'];
                                 $categoryy = $_POST['categoryy'];
-                                $checkcar = $_POST['checkcar'];
 
                                 $stmtitemadd = $con->prepare("INSERT INTO
-                                                        autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, extrasparts, Approve)
-                                                        VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, :zextrascars, 1)");
+                                                        autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, Approve)
+                                                        VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, 1)");
                                 $stmtitemadd->execute(array(
                                         'zlocate' => $locationcars,
                                         'zimage'    => $data,
@@ -715,7 +618,6 @@ $pageTitle="New Auto Accessories & Parts";
                                         'zLocation'    => $location,
                                         'zusageparts'  => $usageparts,
                                         'zconditionparts' => $conditionparts,
-                                        'zextrascars' => $checkcar,
                                         'ztypeparts' => $typeparts
                                 ));
                                 echo finads();
@@ -751,7 +653,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 65 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin1"
+                                "redirectUrl" =>  "https://ohyamal.com/heatingparts.php?do=Insertfin1"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -803,7 +705,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 200 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin2"
+                                "redirectUrl" =>  "https://ohyamal.com/heatingparts.php?do=Insertfin2"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -855,7 +757,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 300 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin3"
+                                "redirectUrl" =>  "https://ohyamal.com/heatingparts.php?do=Insertfin3"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -907,7 +809,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 500 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin4"
+                                "redirectUrl" =>  "https://ohyamal.com/heatingparts.php?do=Insertfin4"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -946,10 +848,9 @@ $pageTitle="New Auto Accessories & Parts";
             ));
 
                             $stmtitemadd = $con->prepare("INSERT INTO
-                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, extrasparts, Approve)
-                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, :zextrascars, 1)");
+                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, Approve)
+                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, 1)");
                             $stmtitemadd->execute(array(
-
                                     'zlocate' => $_SESSION['locationcars'],
                                     'zimage'    => $_SESSION['data'],
                                     'zname'     => $_SESSION['name'],
@@ -963,7 +864,6 @@ $pageTitle="New Auto Accessories & Parts";
                                     'zLocation'    => $_SESSION['location'],
                                     'zusageparts'  => $_SESSION['usageparts'],
                                     'zconditionparts' => $_SESSION['conditionparts'],
-                                    'zextrascars' => $_SESSION['checkcar'],
                                     'ztypeparts' => $_SESSION['typeparts']
                             ));
                             echo finads();
@@ -980,10 +880,9 @@ $pageTitle="New Auto Accessories & Parts";
             ));
 
                             $stmtitemadd = $con->prepare("INSERT INTO
-                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, extrasparts, Approve)
-                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, :zextrascars, 1)");
+                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, Approve)
+                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, 1)");
                             $stmtitemadd->execute(array(
-
                                     'zlocate' => $_SESSION['locationcars'],
                                     'zimage'    => $_SESSION['data'],
                                     'zname'     => $_SESSION['name'],
@@ -997,7 +896,6 @@ $pageTitle="New Auto Accessories & Parts";
                                     'zLocation'    => $_SESSION['location'],
                                     'zusageparts'  => $_SESSION['usageparts'],
                                     'zconditionparts' => $_SESSION['conditionparts'],
-                                    'zextrascars' => $_SESSION['checkcar'],
                                     'ztypeparts' => $_SESSION['typeparts']
                             ));
                             echo finads();
@@ -1014,10 +912,9 @@ $pageTitle="New Auto Accessories & Parts";
             ));
 
                             $stmtitemadd = $con->prepare("INSERT INTO
-                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, extrasparts, Approve)
-                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, :zextrascars, 1)");
+                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, Approve)
+                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, 1)");
                             $stmtitemadd->execute(array(
-
                                     'zlocate' => $_SESSION['locationcars'],
                                     'zimage'    => $_SESSION['data'],
                                     'zname'     => $_SESSION['name'],
@@ -1031,7 +928,6 @@ $pageTitle="New Auto Accessories & Parts";
                                     'zLocation'    => $_SESSION['location'],
                                     'zusageparts'  => $_SESSION['usageparts'],
                                     'zconditionparts' => $_SESSION['conditionparts'],
-                                    'zextrascars' => $_SESSION['checkcar'],
                                     'ztypeparts' => $_SESSION['typeparts']
                             ));
                             echo finads();
@@ -1048,10 +944,9 @@ $pageTitle="New Auto Accessories & Parts";
             ));
 
                             $stmtitemadd = $con->prepare("INSERT INTO
-                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, extrasparts, Approve)
-                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, :zextrascars, 1)");
+                                                    autoaccparts(Image, locationcars, Name, phone, category, categoryy , user_Id, sellertypeparts, Price, Add_date, Description, Location, usageparts, conditionparts, typeparts, Approve)
+                                                    VALUES(:zimage, :zlocate, :zname, :zphone, :zcategory, :zcategoryy, :zuser, :zsellertypeparts, :zprice, now(), :zDescription, :zLocation, :zusageparts, :zconditionparts, :ztypeparts, 1)");
                             $stmtitemadd->execute(array(
-
                                     'zlocate' => $_SESSION['locationcars'],
                                     'zimage'    => $_SESSION['data'],
                                     'zname'     => $_SESSION['name'],
@@ -1065,7 +960,6 @@ $pageTitle="New Auto Accessories & Parts";
                                     'zLocation'    => $_SESSION['location'],
                                     'zusageparts'  => $_SESSION['usageparts'],
                                     'zconditionparts' => $_SESSION['conditionparts'],
-                                    'zextrascars' => $_SESSION['checkcar'],
                                     'ztypeparts' => $_SESSION['typeparts']
                             ));
                             echo finads();

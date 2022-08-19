@@ -48,7 +48,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                         })
                                                     })()
                                                 </script>
-                                                <a href="motorcycleparts.php" class="linkfrom">Motorcycle Parts > Accessories</a>
+                                                <a href="motorcycleparts.php" class="linkfrom">Motorcycle Parts > Body & Frame</a>
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
@@ -59,7 +59,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
-                                                            <input id="model" type="hidden" value="Auto Accessories & Parts > Motorcycle Parts > Accessories" name="categoryy" class="forminput form-select-lg" autocomplete="off" required="required" placeholder="Model Of The cars">
+                                                            <input id="model" type="hidden" value="Auto Accessories & Parts > Motorcycle Parts > Body & Frame" name="categoryy" class="forminput form-select-lg" autocomplete="off" required="required" placeholder="Model Of The cars">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -67,7 +67,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                 <div class="form-group form-group-lg formmarginad">
                                                 <div class="row">
                                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-2">
-                                                            <input id="model" type="hidden" value="Accessories moaap" name="typeparts" class="forminput form-select-lg" autocomplete="off" required="required">
+                                                            <input id="model" type="hidden" value="Body & Frame moaap" name="typeparts" class="forminput form-select-lg" autocomplete="off" required="required">
                                                         </div>
                                                     </div>
                                                 </div>
@@ -167,10 +167,6 @@ $pageTitle="New Auto Accessories & Parts";
                                                 </div>
                                                 <div class="form-group form-group-lg formmarginad">
                                                     <div class="row">
-                                                        <!-- <div class="col-lg-12"><div class="form-check">
-                                                        <h5>Extra</h5>
-                                                        </div>
-                                                        </div> -->
                                                     <div class="col-lg-6"><div class="form-check">
                                                         <input class="form-check-input" type="checkbox" value="All Motorcycles" id="a0" name="cars[]">
                                                         <label class="form-check-label" for="a0">
@@ -232,14 +228,14 @@ $pageTitle="New Auto Accessories & Parts";
                                                         </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Yamaha" id="a10" name="cars[]">
-                                                        <label class="form-check-label" for="a10">
+                                                        <input class="form-check-input" type="checkbox" value="Yamaha" id="a19" name="cars[]">
+                                                        <label class="form-check-label" for="a19">
                                                         Yamaha
                                                         </label></div>
                                                         </div>
                                                         <div class="col-lg-6"><div class="form-check">
-                                                        <input class="form-check-input" type="checkbox" value="Other Motorcycle Manufacturer" id="a19" name="cars[]">
-                                                        <label class="form-check-label" for="a19">
+                                                        <input class="form-check-input" type="checkbox" value="Other Motorcycle Manufacturer" id="a29" name="cars[]">
+                                                        <label class="form-check-label" for="a29">
                                                         Other Motorcycle Manufacturer
                                                         </label></div>
                                                         </div>
@@ -337,7 +333,7 @@ $pageTitle="New Auto Accessories & Parts";
                                                                             $namesellertypeparts = $info['Name'];
                                                                             ?>
                                                                     <input id="title" type="hidden" name="sellertypeparts" class="form-control form-select-lg" autocomplete="off" value="<?php echo $namesellertypeparts ?>" />
-                                            <?php
+                                                                    <?php
                                             function myfunction($v1,$v2)
                                             {
                                             return $v1 . "-" . $v2;
@@ -751,7 +747,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 65 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin1"
+                                "redirectUrl" =>  "https://ohyamal.com/bodyframe.php?do=Insertfin1"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -803,7 +799,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 200 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin2"
+                                "redirectUrl" =>  "https://ohyamal.com/bodyframe.php?do=Insertfin2"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -855,7 +851,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 300 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin3"
+                                "redirectUrl" =>  "https://ohyamal.com/bodyframe.php?do=Insertfin3"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
@@ -907,7 +903,7 @@ $pageTitle="New Auto Accessories & Parts";
                             "value" => 500 * 100,
                                 ],
                             "merchantAttributes" => [
-                                "redirectUrl" =>  "https://ohyamal.com/accesories.php?do=Insertfin4"
+                                "redirectUrl" =>  "https://ohyamal.com/bodyframe.php?do=Insertfin4"
                             ],
                             ];
                             $outlet = "c3cce49c-9824-4fc3-b237-f03f3c9c449f";
