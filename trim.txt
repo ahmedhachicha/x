@@ -1,0 +1,1904 @@
+# 11111
+Ambition
+Attraction
+S
+S-line
+Standard
+Other
+RS 4 Avant
+RS 5
+RS 5 S-line
+RS 6
+RS 6 S-line
+Special Edition
+L
+L S-line
+L Special Edition
+L W12
+Luxury
+
+Basic 30
+Design 35
+Sport 30
+Sport 35
+This field is mandatory
+SQ5 Quattro
+Premium
+RS
+RS Q8
+S-Line Sports
+GT
+GT Spyder
+Sport
+Sport Plus
+Sports
+Sports Plus
+Spyder
+Other
+Plus
+Pro Line Plus
+Roadster
+S Special Edition
+Sport Package
+TTS
+Prestige
+
+# 222
+# acura
+Advance AND Entertainment Package
+Advance Package
+Advance Plus
+Sport AND Entertainment Package
+Sport Package
+Technology AND Entertainment Package
+Technology Package
+Sport
+Advance
+Technology Plus Package
+Standard
+Type-s
+Other
+
+
+# 333 
+# Alfa
+Launch Edition
+Spider
+Sport
+Standard
+Distinctive
+Progression
+Quadrifoglio
+TOP
+Super
+Super AFS
+Super Luxury Pack
+Super Sport Pack
+Veloce
+Trim
+Other
+
+#Aston 
+GT
+Vantage
+Volante
+Other
+Carbon Black
+GT Carbon Black
+Luxury Edition
+Sport Edition
+Volante Carbon Black
+Carbon Edition
+Standard
+Volante Carbon Edition
+AMR
+Launch edition
+V12 Coupe
+V8 Coupe
+Luxury
+S
+S Shadow Edition
+Performance
+Icon
+Special
+Taraf
+GT12
+GT3
+GT8
+N430
+S Roadster
+V12
+S Super GT
+Sport
+Ultimate GT
+City
+Limited Edition
+
+
+#JAC 
+S
+Standard
+Other
+
+#BMW
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M5 Competition', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M6 Convertible', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M6 Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M6 Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M8 Convertible', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M8 Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M8 Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sdrive18i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive20i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive20i M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive20i Sport-Line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive20i xLine', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive20i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive25i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive25i M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive25i Sport-Line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive25i xLine', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive28i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0 M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0 M Sport X Package', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.5i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.5si', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0si', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M40i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive20i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X3M', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X3M Competition', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive20i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive28i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive30i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '28i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M40i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X4M', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X4M Competition', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive20D', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive20i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive28i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive30D', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive35D', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0si', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4.4i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4.6is', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4.8i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4.8is', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '40i M-Kit', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive35i Luxury-Line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive35i M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X5M', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X5M Competition', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive 40i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive35i Dominator', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive35i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive35i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive35i Luxury-Line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive35i M Dominator', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive35i M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Xdrive50i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'xDrive50i Luxury-Line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.5i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.5si', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0si', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M40i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive18i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive20i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sdrive23i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive28i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sdrive30i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sdrive35i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'sDrive35is', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Z4M', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Z4M Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Z3 Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '116i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '116i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '116i Urban-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '118i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '118i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '118i Urban-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '120 D', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '120i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '120i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '120i Urban-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '125i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '125i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '125i Urban-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '128i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '130i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '130i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '130i Urban-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '135i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '135i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '135i Urban-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '135is', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 1', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 135i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M140i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '218i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '220i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '220i Convertible', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '225i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '228i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '228i Convertible', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '230i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '230i Convertible', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '235i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '240i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 240i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M2', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M235i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '316i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '316i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '316i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '318ci', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '318i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '318i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '318i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '320ci', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '320i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '320i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '320i Modern-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '320i Standard', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '323i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '325ci', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '325i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '325i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '325i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '328D', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '328i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '328i Luxury-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '328i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '328i Standard', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '330ci', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '330i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '330i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '330i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '330i Gran Turismo', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '335i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '335i Gran Turismo', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '335i Modern-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '335i Xdrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '335is', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '335xi', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '340i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '340i Gran Turismo', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 3', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 3 E46', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 3 Limited Edition', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '420i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '420i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '428i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '428i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '428i Luxury-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '428i Modern-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '428i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '430i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '430i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '430i xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '435i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '435i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '435i Luxury-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '435i Modern-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '435i Sport-line', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '440i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '440i xDrive Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M4', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '520i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '520i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '520i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '520i M-Kit', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '523i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '523i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '523i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '525i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '528i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '530i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '530i M-Kit', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '535i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '535i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '535i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '535i Gran Turismo', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '540i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '540i M-Kit', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '545i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '550i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '550i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '550i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '550i Gran Turismo', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '550i Gran Turismo xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '550Li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '630i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe xDrive Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe xDrive Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i Gran Coupe xDrive M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i xDrive Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i xDrive Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '640i xDrive M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '645ci', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '645i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650ci', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe xDrive Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe xDrive Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i Gran Coupe xDrive M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i xDrive Excellence', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i xDrive Experience', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '650i xDrive M Sport', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M6', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '730i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '730i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '730i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '730Li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '730li Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '730li Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '735i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '735li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740E xDrive i Performance', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740i xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740LE', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740LE xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740Li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740li Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740li Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740li Luxury', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '740Li xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '745i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '745li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750i Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750i Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750i xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750Li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750li Exclusive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750li Executive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750li Luxury', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '750Li xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '760i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '760Li', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '760li Luxury', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '760Li xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Alpina B7', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'M 760i xDrive', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '840i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '840i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '850i', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '850i Gran Coupe', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Z3 Roadster', 'BMW', '2022-04-08 12:00:04.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'BMW', '2022-04-08 12:00:04.000000');
+
+#Borgward
+Elite
+Luxury
+Ultimate
+TS
+Other
+
+#BAIC
+Basic
+Comfort
+Fashion
+BJ40L
+
+#Bentley
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RL', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'First Edition', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Signature', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'W12 AWD', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Extended Wheelbase', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Majestic', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Special Edition', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Speed', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Flying Spur', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Flying Spur Speed', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Flying Spur Speed Plus', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT S', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT S Special Edition', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Special Edition', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Speed', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Speed Special Edition', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Supersports', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT V8', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT V8 S', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT3-R', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC Plus', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC S', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC S Plus', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC Speed', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC Speed Plus', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC Supersports', 'Bentley', '2022-04-07 20:04:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Bentley', '2022-04-07 20:04:47.000000');
+
+
+#Brilliance
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Deluxe', 'Brilliance', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V5 Comf', 'Brilliance', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V5 DLX', 'Brilliance', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'H530 Comf', 'Brilliance', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'H530 DLX', 'Brilliance', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Brilliance', '2022-04-07 20:07:22.000000');
+
+#Bugatti
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Deluxe', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'H530 Comf', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'H530 DLX', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '16.4', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '16.4 Super Sport', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Bernar Venet', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Bleu Centenaire', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'FBG Par Hermes', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Pur Sang', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sang Bleu', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sang Noir', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Villa Deste', 'Bugatti', '2022-04-07 20:07:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Bugatti', '2022-04-07 20:07:22.000000');
+
+
+#CMC
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'MID Plus', 'CMC', '2022-04-07 20:19:01.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'CMC', '2022-04-07 20:19:01.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP', 'CMC', '2022-04-07 20:19:01.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP Plus', 'CMC', '2022-04-07 20:19:01.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'CMC', '2022-04-07 20:19:01.000000');
+
+#Chery
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'MID Plus', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP Plus', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0 DVVT CVT (Comfort)', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0 DVVT CVT (Luxury)', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Chery', '2022-04-07 20:24:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Chery', '2022-04-07 20:24:07.000000');
+
+#Chevrolet
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS2', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS3', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LT Premium', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS1', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premier', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RST', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Z71', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2SS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '50th Anniversary', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LT RS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LT1', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LT2', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ZL1', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ZL1 2SS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS 2FL', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LT 3LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royale', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royal', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Hybrid', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LTZ Premium', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 EXT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS Sport', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'WT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS Base', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 1LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 1LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 1WT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 2LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Custom', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 High Country', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 LT Trail Boss', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 LT Z71', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 LTZ Z71', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 WT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Z71', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 HD', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 WT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500HD High Country', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500HD LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500HD LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500HD Work Truck', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 HD', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 High Country', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 High Country DRW', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 LT DRW', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 LTZ', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 LTZ DRW', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 WT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 WT DRW', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXT LS', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXT LT', 'Chevrolet', '2022-04-08 00:46:23.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Chevrolet', '2022-04-08 00:46:23.000000');
+
+#Chrysler
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Hybrid', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Signature Series', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring L', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring L Plus', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Executive', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited Plus', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SR', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt8', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Chrysler', '2022-04-08 01:31:47.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LXi', 'Chrysler', '2022-04-08 01:31:47.000000');
+
+
+#Cadillac
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Performance', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V Series', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V Series Carbon Fiber', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Elegance', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium Luxury', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V-Series', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'HSE', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury AWD', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum AWD', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium Luxury AWD', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V-Sport', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ESV', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ESV Platinum', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ESV SR', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXT', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L Platinum', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L Sport', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L SR', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury Sport', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLS', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'STS', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'DHS', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'DTS', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury II', 'Cadillac', '2022-04-08 01:43:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Cadillac', '2022-04-08 01:43:41.000000');
+
+#Caterham
+R Pack
+S Pack
+Standard
+Other
+
+#Ford
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE AWD
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SEL
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SEL Plus
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Limited
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ST
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Titanium
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Trend
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited Ecoboost
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Titanium Ecoboost
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RS
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LTS
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLS
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLT
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLT Sport
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ambiente
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'St220
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Wagon
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Commercial
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Hurricane
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Wildtrak
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SHO
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SHO TOP
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Boss 302
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ecoboost
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ecoboost Premium
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Premium
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Premium Panoramic Roof
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Mach 1
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Roush
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Saleen
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shelby GT350
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shelby GT350R
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shelby GT500
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shelby GT500 Panoramic Roof
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shelby Supersnake
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard V6
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Super Snake
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SVT Cobra
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V6
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Eddie Bauer
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLT Premium
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Eddie Bauer + EL
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'King Ranch
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'King Ranch + EL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited + EL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'NBX', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum EL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL + EL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL Premium + EL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLT + EL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-250 XL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-250 XLT', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-350 XL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-350 XLT', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-450 XL', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'FX4', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'FX4 Hi-rider', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Harley-davidson', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Lariat', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shelby', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SVT Lightining', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SVT Raptor', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLT X-metal Package', 'Ford', '2022-04-08 11:52:30.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Ford', '2022-04-08 11:52:30.000000');
+
+
+#Dodge
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Laramie Crew', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Regular Cab', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLT Crew', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLT Quad Cab', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLT Regular Cab', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 ST Regular Cab', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Quad CAB', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rebel', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt-10', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TRX', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Aero', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rallye', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT Plus', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Detonator', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Heat', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shock', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLT', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt10', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT10 ACR', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT10 GT', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT10 GTC', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT10 GTS', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Daytona R/T', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T 100th Anniversary Edition', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Max', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Mid', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Plus', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Preformance', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Road & Track', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Scat Pack', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T TOP', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rallye Plus', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE AWD', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE Mid', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE Sport', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE Top', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT 392', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT Core', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt8', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT8 Hellcat', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt8 Super BEE', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT 100th Anniversary Edition', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT Awd', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT MID', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT Special Edition', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Citadel', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Crew', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Crew Plus', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Express', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Plus', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLT Plus', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ST', 'Dodge', '2022-04-08 12:13:15.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Dodge', '2022-04-08 12:13:15.000000');
+
+
+#Firari
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Berlinetta', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Spider', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Italia', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Speciale', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Speciale A', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Speciale Aperta', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TDF', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTB', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTO', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Scuderia', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Aperta', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Special Edition', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '30', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F149', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '512 BB Testarossa', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '512 M', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '512 TR', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '16M', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Coupe', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTA Coupe', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Handling Speciale', 'Ferrari', '2022-04-08 12:52:33.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Ferrari', '2022-04-08 12:52:33.000000');
+
+#Fiat
+Cross Look
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Urban Look', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Basic', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Active', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dynamic', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Emotion', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Gucci', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Lounge', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Abarth', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classica', 'Fiat', '2022-04-08 13:02:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Lusso', 'Fiat', '2022-04-08 13:02:31.000000');
+
+#Genesis
+Advanced
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premier', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royal', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Package', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Supreme', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Supreme', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limousine', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Modern', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum Sport', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royal Sport', 'Genesis', '2022-04-08 13:33:58.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Genesis', '2022-04-08 13:33:58.000000');
+
+
+#GMC
+Denali
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Denali XL', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XUV', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLE', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLT', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL 1500', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL 2500', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL Denali', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL SLE', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XL SLT', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'All Terrain', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLE', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLE1', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLE2', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Slt1', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2LS', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2LT', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3LS', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3LT', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cargo Van', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Commercial Van', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Passenger Van', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Classic', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Denali Classic', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 HD', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 HD Classic', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 MCX', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLE', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 WT', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 HD', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 HD Classic', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 HD Denali', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 MCX', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2500 SLE', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 Classic', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 Classic DRW', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 HD', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 HD Denali', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 MCX', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3500 SLT', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLE1', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLE2', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLT1', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLT2', 'GMC', '2022-04-08 13:45:12.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'GMC', '2022-04-08 13:45:12.000000');
+
+#Honda
+EX
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXL', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX-L', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LX', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'DX', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX Plus', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SR', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXi', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXI Plus', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Hybrid', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LXi', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RS', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Type R', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VTi', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Elite', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX AWD', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ex-c', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX-L AWD', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LX AWD', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring AWD', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'CR Roadster', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Roadster', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classic-ex', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ex-a', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ex-b', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX-L V6', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LX-A', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Lx-b', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Special Edition', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport-ex', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V6 Sport', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX V-6', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX-L V-6', 'Honda', '2022-04-08 14:02:41.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Honda', '2022-04-08 14:02:41.000000');
+
+#Hyundai
+GL
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Plus', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.6T I4 4WD', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0 I4 FWD', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Smart', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S+', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX(O)', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX+', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Denim', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SEL', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS TOP', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Eco', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL Plus', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL TOP', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Basic', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Mid', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Top', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL MID', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS MID', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prada', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royal 3.8', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royal 5.0', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'STD', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Track', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport 2.0t', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Turbo Sport', 'Hyundai', '2022-04-08 14:16:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Hyundai', '2022-04-08 14:16:21.000000');
+
+#Infiniti
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.6 T', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Blue Sport Hybrid', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Hybrid Sport', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Red Sport', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Red Sport 400', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Turbo', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Journey', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury Red', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury Red Duplicate', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury Sport', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Red Sport 400 Tech', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Excellence', 'Infiniti', '2022-04-08 15:17:54.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L', 'Infiniti', '2022-04-08 15:17:54.000000');
+
+
+#Jaguar
+Portfolio
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Pure', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Pure S', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R-Sport', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium Luxury', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium Luxury Sport Pack', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Pure Plus', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R-S', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SV8', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '8', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'HSE', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'P250', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R-Dynamic P300', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GCC Specs', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'North American Specs', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Japanese Specs', 'Jaguar', '2022-04-08 15:34:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'European Specs', 'Jaguar', '2022-04-08 15:34:21.000000');
+
+#Jeep
+6 Executive
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '6 Sovereign', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '6 Vanden Plas', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '8 Executive', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '8 Sovereign', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '8 Super V8 Portfolio', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '8 Vanden Plas', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Portfolio (lwb)', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium Luxury (lwb)', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Super', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Supersport (lwb)', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultimate (lwb)', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'North', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Jet Edition', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited Edition', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Renegade', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '75 Anniversary Edition', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited MID', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited TOP', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Longitude', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport 65th Anniversary', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Plus', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Trailhawk', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '70th Anniversary', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '80th Anniversary', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Islander HT', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rubicon', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rubicon Hard Rock', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rubicon X', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sahara', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sahara Plus', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sahara Unlimited', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sahara Unlimited Plus', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sahara Unlimited Standard', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Golden Eagle', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Renegade', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport S', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited 70th Anniversary', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited C.O.D', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited Rubicon', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited Sahara', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited Sport', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited Standard C.O.D', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited X', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Willys Wheeler', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Willys Wheeler W', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'X', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sahara C.O.D. LI', 'Jeep', '2022-04-08 15:47:16.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Harley/Autohawk', 'Jeep', '2022-04-08 15:47:16.000000');
+
+
+#Kia
+EX
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX FOP', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX MID', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX TOP', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LX', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX FOP', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX SO', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2700', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4000', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EX DLX', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LX M', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Plus', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GCC Specs', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'North American Specs', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Japanese Specs', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'European Specs', 'Kia', '2022-04-08 15:55:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Kia', '2022-04-08 15:55:45.000000');
+
+#Lamborghini
+Standard
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 580-2', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 610-4', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 610-4 Spyder', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 620-2 Super Trofeo', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 680-4 Oakley Design', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dreamliner Edition', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'J', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 700-4', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 700-4 Pirelli Edition', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 700-4 Roadster', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 720-4 50 Anniversario', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 750-4 Superveloce', 'Lamborghini', '2022-04-08 15:59:21.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LP 750-4 Superveloce Roadster', 'Lamborghini', '2022-04-08 15:59:21.000000');
+
+
+#Land Rover
+HSE
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Landmark', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LE', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited Edition LR4 Pursuit', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Autobiography', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Autobiography Ultimate Edition', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'HSE MID', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'HSE Royal', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'HSE TOP', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Supercharged', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SV Autobiography', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vogue', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vogue HSE', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vogue LE', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vogue SE', 'Land Rover', '2022-04-08 16:05:53.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Land Rover', '2022-04-08 16:05:53.000000');
+
+#Lexus
+350 F Sport Platinum
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 F Sport Prestige', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 Platinum', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 Premier', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Carbon', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-sport', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VIP', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Hybrid', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premier', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F Sport', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SC 430', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '450 h', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Full Option', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premier Plus', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Titanium', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP', 'Lexus', '2022-04-08 16:15:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Lexus', '2022-04-08 16:15:22.000000');
+
+
+#Lincoln
+Reserve
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Select', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ecoboost', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premiere', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cartier', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cartier L', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Designer', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Executive', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Signature', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Signature L', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Signature Limited', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultimate', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultimate L', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'L AWD', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Reserve AWD', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Select AWD', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard AWD', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AWD Ecoboost', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'FWD V6', 'Lincoln', '2022-04-08 16:21:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Lincoln', '2022-04-08 16:21:25.000000');
+
+
+#Lotus
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SC', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Sport', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Roadster', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Lotus', '2022-04-08 16:23:19.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Lotus', '2022-04-08 16:23:19.000000');
+
+
+#Maserati
+Cambiocorsa
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ghibli', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ghibli S', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ghibli S Q4', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Q4', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Gransport', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '3.0L', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S 3.0L', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LE', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'MC', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport MC', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Special Edition', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Grancabrio', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'MC Stradale', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Plus', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard Plus', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTS', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTS Plus', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Plus', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Special Edition', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport GT', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard Special Edition', 'Maserati', '2022-04-08 16:32:22.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Maserati', '2022-04-08 16:32:22.000000');
+
+
+#Mazda
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R Grade', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Grade', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V Grade', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V S/R', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V S/R SAP', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'V Sport', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultra', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'MID', 'Mazda', '2022-04-08 16:40:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Mazda', '2022-04-08 16:40:45.000000');
+
+
+#McLaren
+S
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Special Edition', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Can-Am Limited Edition', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Coupe', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT3', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Spider', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Performance', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'McLaren', '2022-04-08 16:46:32.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'McLaren', '2022-04-08 16:46:32.000000');
+
+
+#Mercedes-Benz
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG-GT', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG-GT S', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT 63 S 4MATIC+', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTS', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG CLA 35', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'CLA200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'CLA220', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'CLA250', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'CLA45', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '180', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '230', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '180', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '250', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '35 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '45 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLC 250 4MATIC', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLC 300 4MATIC', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLC 200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLC 300', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLC 43', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '722', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '722 Roadster', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLR', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLR Roadster', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Coupe', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Coupe', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Roadster', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Roadster', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ambiente', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Avantgarde', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'FUN', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Marco Polo', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Trend', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLC 63 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'A 160', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'A 160 Elegance', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'A 250', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG A 35', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG A 45 S+', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG A 45+', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'B 150', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'B 170', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'B 200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, ' 200 T', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG C63S', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C180', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C180 Avantgarde', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C180 Elegance', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C200 Avantgarde', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C200 Elegance', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C230', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C230 Elegance', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C240', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C250 Coupe', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C250 Luxury', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C250 Sport', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C280', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C280 Avantgarde', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C300 Luxury', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C300 Sport', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C350', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C350 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C350 Business Edition', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C400 4MATIC', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C450 4MATIC', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C55 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'C63 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AMG E 63 S', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 200', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 200 Kompressor', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 230', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 240', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 250 CGI', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 280', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 300', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 320', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 350', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 500', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 55 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E 63 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E400', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'E450', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ML 350', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ML 400', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ML 500', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ML 55 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ML 63 AMG', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLK 250', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLK 300 4matic', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLK 350 4matic', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLK280', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Mercedes-Benz', '2022-04-08 16:56:52.000000');
+
+
+#Mini
+Cooper
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'John Cooper Works', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper Cabrio', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S 50th Anniversary Mayfair', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S Cabrio', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S Goodwood', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S JCW', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S JCW GP', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cooper S', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S 4WD', 'Mini', '2022-04-08 17:04:10.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Mini', '2022-04-08 17:04:10.000000');
+
+#Mitsubishi
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX 4WD', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX LOW Line', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX Medium Line', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LS', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VR', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vr-x', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.8L FWD', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'DE', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ES', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ES Diamond', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTS', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTS Premium', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL Plus', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Plus', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX Plus', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Highline', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Lowline', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Midline', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4WD 3 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4WD 5 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS 3 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS 5 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS MID', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS TOP', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Top 3 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS Top 5 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX 3 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX 5 Door', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Plus 4WD', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GS', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GS Premium', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT Premium', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'High Line', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS 2WD', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLS 4WD', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX 2WD', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Mitsubishi', '2022-04-08 17:15:07.000000');
+
+
+#Nissan
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VX', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Enthusiast', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Nismo', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Performance', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Coupe', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Nismo Tech', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Roadster', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Tech', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Touring Sport', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Black Edition', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Nismo RS', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL T2', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL Turbo', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL Turbo Plus', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SV', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SV Plus', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL Plus', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SL Premium', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SGL AT', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SGL MT', 'Nissan', '2022-04-08 17:25:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Nissan', '2022-04-08 17:25:50.000000');
+
+
+#Rolls Royce
+Black Badge
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Drophead', 'Rolls-Royce', '2022-04-08 17:39:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Drophead', 'Rolls-Royce', '2022-04-08 17:39:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Extended Wheel Base', 'Rolls-Royce', '2022-04-08 17:39:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Special Edition', 'Rolls-Royce', '2022-04-08 17:39:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Rolls-Royce', '2022-04-08 17:39:31.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Rolls-Royce', '2022-04-08 17:39:31.000000');
+
+
+#Subaru
+Premium
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RS', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'WRX', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'WRX STI', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'I', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'I Plus', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XS', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XSS', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XT', 'Subaru', '2022-04-08 17:43:34.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Subaru', '2022-04-08 17:43:34.000000');
+
+
+#Tesla
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Long Range', 'Tesla', '2022-04-08 17:45:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Performance', 'Tesla', '2022-04-08 17:45:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Plaid', 'Tesla', '2022-04-08 17:45:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Tesla', '2022-04-08 17:45:45.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Tesla', '2022-04-08 17:45:45.000000');
+
+#Toyota
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Basic', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTX', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'MID', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TOP', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VT', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VTX', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.5L', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLI', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'XLI Plus', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'G', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Toyota', '2022-04-08 17:47:52.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ST', 'Toyota', '2022-04-08 17:47:52.000000');
+
+
+#Volkswagen 
+SE
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SEL', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTi', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfortline', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Highline', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Highline Plus', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Trendline', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Special Edition', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Volkswagen', '2022-04-08 17:55:25.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Volkswagen', '2022-04-08 17:55:25.000000');
+
+
+#Volvo
+Comfort
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort 5ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort 7ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort SE', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort SE Luxe', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Design Exclusive', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Executive', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Executive SE', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Inscription Exclusive', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Momentum', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige 7ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R Design', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R Design 5ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R Design 7ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R Design SE', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport 5ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport 7ST', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T6', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T6 R Design', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Business Line', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classic', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classic.', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort Plus', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort SE', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Executive', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Executive SE', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Inscription', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Momentum', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premium RTI', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Prestige', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R Design', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R-Design', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Design', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Executive', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T4', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T5', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T6', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T6 R Design', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'T8', 'Volvo', '2022-04-08 17:57:50.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Volvo', '2022-04-08 17:57:50.000000');
+
+
+#Aston
+GT
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vantage', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Volante', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Carbon Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Volante Carbon Black', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Volante Carbon Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Performance', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Carbon Black', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Super GT', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultimate GT', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Aston', '2022-04-08 18:01:51.000000');
+
+
+
+#Aston
+GT
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vantage', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Volante', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Carbon Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Volante Carbon Black', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Volante Carbon Edition', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Performance', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Carbon Black', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S Super GT', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultimate GT', 'Aston', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Aston', '2022-04-08 18:01:51.000000');
+
+#GAC
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'GAC', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GE', 'GAC', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL', 'GAC', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GT', 'GAC', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'GAC', '2022-04-08 18:01:51.000000');
+
+#Faw
+1.5 AT
+Other
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.5 AT', 'FAW', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'FAW', '2022-04-08 18:01:51.000000');
+
+
+#HAVAl
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'City', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dignity', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'CITY', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Fashionable', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LUXURY', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SPORT', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Supreme', 'HAVAl', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'HAVAl', '2022-04-08 18:01:51.000000');
+
+#Saab
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Aero', 'Saab', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ARC', 'Saab', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Linear', 'Saab', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Turbo-x', 'Saab', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Vector', 'Saab', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Saab', '2022-04-08 18:01:51.000000');
+
+#Dodge
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Laramie Crew', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 Regular Cab', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLT Crew', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLT Quad Cab', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 SLT Regular Cab', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1500 ST Regular Cab', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Quad CAB', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rebel', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt-10', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'TRX', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Detonator', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Heat', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shock', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SLT', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T 100th Anniversary Edition', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Classic', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Mopar 14', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Plus', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Plus Shaker', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Scat Pack', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'R/T Shaker', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rallye', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Rallye Redline', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE Plus', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE Sport', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Srt8', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT8 392 Scat Pack Shaker', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT8 Core', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SRT8 Hellcat', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT 100th Anniversary Edition', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SXT Plus', 'Dodge', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Dodge', '2022-04-08 18:01:51.000000');
+
+
+#Lexus
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 F Sport Platinum', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 F Sport Prestige', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 Platinum', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '350 Premier', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Carbon', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F-sport', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VIP', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SC 430', 'Lexus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Lexus', '2022-04-08 18:01:51.000000');
+
+#Maxus
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Maxus', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Maxus', '2022-04-08 18:01:51.000000');
+
+#Milan
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premier', 'Milan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Milan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Milan', '2022-04-08 18:01:51.000000');
+
+
+#Opel
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cosmo', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dynamic Fop', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dynamic Standard', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Enjoy', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Enjoy Fop', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Enjoy Standard', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GTC', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Innovation Fop', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Innovation Standard', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'OPC', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Color Edition', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Elegance', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Essentia', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Essentia Plus', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'OPC', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'OPC Nurburgring Edition', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Innovation', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ultimate', 'Opel', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Opel', '2022-04-08 18:01:51.000000');
+
+
+#Seat
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Reference', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Style', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cupra', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Cupra R', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'FR', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Stylance', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Seat', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Seat', '2022-04-08 18:01:51.000000');
+
+#UAZ
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Chassis', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dropside With Tent', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Goods Truck', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Supply Truck', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Combi', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dropside Van', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Farmer', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Glassed in Van', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Passenger Bus', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classic', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Expedition', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Limited', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Trophy', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Unlimited', 'UAZ', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'UAZ', '2022-04-08 18:01:51.000000');
+
+#Citroen
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'So Chic 1.6', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport Chic 1.6', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Confort', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'EXCLUSIVE', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Top', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VTR', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'blueHDI', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'PureTech', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sense', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sense Plus', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shine', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Shine Plus', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Attraction', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Panel', 'Citroen', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Citroen', '2022-04-08 18:01:51.000000');
+
+#Datsun
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Datsun', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Datsun', '2022-04-08 18:01:51.000000');
+
+
+#Maybach
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Maybach', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'S', 'Maybach', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Landaulet', 'Maybach', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Maybach', '2022-04-08 18:01:51.000000');
+
+
+#Skoda
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Active', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Ambition', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'City', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Manual', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Monte Carlo', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RS', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'RS Dynamic', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Style', 'Skoda', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Skoda', '2022-04-08 18:01:51.000000');
+
+#Suzuki
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GL Plus', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GLX', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Outdoor', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Dzire', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Full Option', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Suzuki', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Suzuki', '2022-04-08 18:01:51.000000');
+
+
+
+#Changan
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Basic', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfort', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Comfortable', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Distinguished', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Full Option', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxurious', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Luxury', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Elite', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Fashion', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classic', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Platinum', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Royal', 'Changan', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Changan', '2022-04-08 18:01:51.000000');
+
+
+#Daihatsu
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Daihatsu', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SVP', 'Daihatsu', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SX', 'Daihatsu', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Glass', 'Daihatsu', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Panel', 'Daihatsu', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Daihatsu', '2022-04-08 18:01:51.000000');
+
+#Fisker
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'ES', 'Fisker', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Fisker', '2022-04-08 18:01:51.000000');
+
+
+#Renault
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '197 RS', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '200', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Campus', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Classic', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'F1 Team R27', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sport', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Pick UP', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Sedan', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'VAN', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'LE', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'PE', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'SE', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Renault', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Renault', '2022-04-08 18:01:51.000000');
+
+
+#Mercury
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Premier', 'Mercury', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Mercury', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Mercury', '2022-04-08 18:01:51.000000');
+
+#Geely
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.8L CVT GL', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.8L CVT GS', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '1.8L MT GS', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GB', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'GS', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.0L MT GS', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.4 AT GS', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '2.4L AT GL', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4x2 Advance', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, '4x2 Elegance', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AWD Elegance', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'AWD Flagship', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Advance', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Elegance', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Geely', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Standard', 'Geely', '2022-04-08 18:01:51.000000');
+
+#Westfield
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Base', 'Westfield', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Full', 'Westfield', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Mid', 'Westfield', '2022-04-08 18:01:51.000000');
+INSERT INTO `trime` (`Id`, `Name`, `model_name`, `date`) VALUES (NULL, 'Other', 'Westfield', '2022-04-08 18:01:51.000000');
